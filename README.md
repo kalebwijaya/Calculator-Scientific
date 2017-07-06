@@ -1,4 +1,4 @@
-# Calculator Scientific Project Data
+# Calculator Scientific Source Code
 
 Team member :
 1. Kaleb Wijaya 2001563164 Software Engineer
